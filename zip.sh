@@ -45,7 +45,7 @@ s1=`ls -lh Flashable-ZIP-Maker-SIGNED.zip | sed -e 's/.* [ ]*\([0-9]*\.[0-9]*[MK
 echo "Size of ZIP is = $s1"
 echo "Flashable zip is in output/Flashable-ZIP-Maker-SIGNED.zip"
 tput sgr0
-setterm -bold
+setterm -bold on
 echo "Flashable ZIP Maker by russelldias"
 sleep .1
 echo "Thanks for using Flashable ZIP Maker"
