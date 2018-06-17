@@ -8,7 +8,9 @@ A) cd-to-folder
 
 Q) Where to place Files?
 
-A) Flashable-ZIP-Maker/tools/system
+A)make a flder named as /system inside /tools (/tools/system)
+
+B)Flashable-ZIP-Maker/tools/system
    Place your file in the proper folders*
    
    NOTE:I HAVE MADE ALL THE FOLDER NEEDED. PLEASE PLACE IN THE RIGHT   PLACE.
