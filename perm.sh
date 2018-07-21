@@ -3,7 +3,7 @@ echo "Setting Permissions"
 echo "Setting"
 if test -e zip.sh
   then
-    chmod 777 zip.sh
+    sudo chmod 777 zip.sh
 fi
 echo "Removing perm.sh"
 if test -e perm.sh
